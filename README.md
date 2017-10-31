@@ -361,6 +361,7 @@ websocket'ы - экспериментально установлено хоро�
 
 ## Ссылки
 
-1. [Проект сервера сообщений](https://github.com/dr-co/lp/blob/master/README.rus.md)
-2. [БД Tarantool](http://tarantool.org)
-3. [Проблема 10К](https://ru.wikipedia.org/wiki/C10k).
+1. [Проект сервера сообщений](https://github.com/dr-co/lp/blob/master/README.rus.md);
+2. [БД Tarantool](http://tarantool.org);
+3. [Проблема 10К](https://ru.wikipedia.org/wiki/C10k);
+4. [Бага в тарантуле, полайкайте](https://github.com/tarantool/tarantool/issues/946).
