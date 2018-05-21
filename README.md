@@ -261,4 +261,4 @@ Tarantool — это не просто база данных. Tarantool — эт
 3. [Проблема 10К](https://ru.wikipedia.org/wiki/C10k).
 4. [Аналогичный проект на Rabbit MQ](https://habrahabr.ru/company/tensor/blog/341068/).
 5. [Еще идентичный проект на Tarantool](https://habrahabr.ru/company/mailru/blog/232981/).
-6. [Данная статья в Git](https://github.com/unera/lp-article).
+6. [Данная статья в Git](https://github.com/unera/article-lp).
